@@ -9,7 +9,6 @@ import org.hibernate.service.ServiceRegistry;
 
 
 public class Util {
-    // реализуйте настройку соеденения с БД
 
     public static Session createSession(){
 
